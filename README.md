@@ -1,7 +1,15 @@
-# Database Interaction Using Automatic Speech Recognition
+# Interactive Multilingual SQL Interface
 
-Developed and tested a technology that allows users to communicate with the database directly using their natural speech to retrieve information. Used Natural Language Processing (NLP) for Lexical analysis, semantic analysis, syntactic analysis, discourse integration & Pragmatic analysis.
+Welcome to our innovative project that empowers users with no prior knowledge of SQL to interact with databases effortlessly using their own language. Our system currently supports three languages: English, French, and German.
 
-We developed an application with background noise suppression feature.
-As of now, the application supports 4 languages: English, Hindi, German and French.
 
+### How to Use
+Speech Input:
+
+Users can simply speak their queries into the system's microphone.
+Language Flexibility:
+
+Engage with the system in English, French, or German for a personalized experience.
+Effortless Query Generation:
+
+Witness the magic as the system converts spoken language into meaningful SQL queries and returns the output in tabular format.
